@@ -8,18 +8,18 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'ERROR V1.1 MD' //ur bot name
-global.ownernumber = ['2349125042727'] //ur owner number, dont add more than one
-global.ownername = 'EMMY-HENZ' //ur owner name
+global.ownernumber = ['224669094865'] //ur owner number, dont add more than one
+global.ownername = 'Anonymous' //ur owner name
 global.websitex = "https://youtube.com/@EMMYHENZTECHINFO"
 global.wagc = "https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C"
 global.themeemoji = '⛩'
 global.wm = "EMMY-HENZ Bot Inc."
 global.botscript = 'https://github.com/EMMYHENZ-TECH/ERROR-V1' //script link
-global.packname = "ERROR V1.1 MD"
-global.author = "ERROR V1.1 MD"
-global.creator = "2349121785627@s.whatsapp.net"
+global.packname = "👻☠️"
+global.author = "King Anonymous"
+global.creator = "224669094865@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349125042727"] // Premium User
+global.premium = ["224669094865"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
